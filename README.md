@@ -4,7 +4,7 @@ Des petits projets proposés aux étudiants.
 
 Le degré de difficulté est mentionné
 
-# Base de données
+ Base de données
 
 Projet
 - Titre
@@ -24,9 +24,8 @@ Projet
 
 <!-- TOC -->
 - [Advent of Code](#advent-of-code)
-- [Base de données](#base-de-données)
-  - [Morpion](#morpion)
-  - [Calculatrice](#calculatrice)
+  - [Morpion -- OK](#morpion----ok)
+  - [Calculatrice -- OK](#calculatrice----ok)
     - [Notions](#notions)
     - [Langages](#langages)
   - [MarketPlace](#marketplace)
@@ -37,11 +36,11 @@ Projet
   - [Encyclopédie Savoir relatif et Absolu](#encyclopédie-savoir-relatif-et-absolu)
   - [Memory](#memory)
   - [Formulaire de contact](#formulaire-de-contact)
-  - [PasswordGenerator](#passwordgenerator)
-  - [PasswordChecker](#passwordchecker)
+  - [PasswordGenerator -- OK](#passwordgenerator----ok)
+  - [PasswordChecker -- OK](#passwordchecker----ok)
   - [ChatWebSocket](#chatwebsocket)
   - [SnakeGame](#snakegame)
-  - [SuperSimon](#supersimon)
+  - [SuperSimon -- OK](#supersimon----ok)
   - [Paint](#paint)
   - [Loan Calculator](#loan-calculator)
   - [IP Validator](#ip-validator)
@@ -50,7 +49,7 @@ Projet
   - [Calculateur d'âge](#calculateur-dâge)
 <!-- TOC -->
 
-## Morpion
+## Morpion -- OK
 
 ![](readme_docs/morpion.png)
 
@@ -61,7 +60,7 @@ Bonus:
 - Stockage du score en LocalStorage
 - Gestion des noms
 
-## Calculatrice
+## Calculatrice -- OK
 
 
 ![](readme_docs/calculatrice.png)
@@ -149,7 +148,7 @@ Bonus:
 - Envoi de mail
 - Choix des champs à afficher
 
-## PasswordGenerator
+## PasswordGenerator -- OK
 
 Générateur
 
@@ -157,7 +156,7 @@ Bonus:
 - Choix de la politique de mot de passe
 - Interaction avec Pawned (le site)
 
-## PasswordChecker
+## PasswordChecker -- OK
 
 A partir d'une politique de mot de passe sélectionnée, le mot de passe saisi est vérifié pour voir s'il est assez robuste.
 
@@ -169,7 +168,7 @@ Créer une application de chat : Créez une application de chat en utilisant le 
 
 Jeu du snake
 
-## SuperSimon
+## SuperSimon -- OK
 
 Jeu du Supersimon
 
