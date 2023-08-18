@@ -1,26 +1,53 @@
 # Advent of Code
 
+Des petits projets proposés aux étudiants.
+
+Le degré de difficulté est mentionné
+
+# Base de données
+
+Projet
+- Titre
+- Description courte
+- Consigne
+- Fichiers fournis
+  - Un ensemble de fichiers sources
+- Niveau de difficulté (1 à 5)
+- Langages utilisés
+  - JS, HTML, CSS
+- Techniques utilisées
+  - Formulaire, HTTP
+
+
+
+
 
 <!-- TOC -->
-* [Advent of Code](#advent-of-code)
-  * [Morpion](#morpion)
-  * [Calculatrice](#calculatrice)
-  * [MarketPlace](#marketplace)
-  * [GuessANumber](#guessanumber)
-  * [Cadavre exquis](#cadavre-exquis)
-  * [Museum](#museum)
-  * [TodoList](#todolist)
-  * [Encyclopédie Savoir relatif et Absolu](#encyclopdie-savoir-relatif-et-absolu)
-  * [Memory](#memory)
-  * [Formulaire de contact](#formulaire-de-contact)
-  * [PasswordGenerator](#passwordgenerator)
-  * [PasswordChecker](#passwordchecker)
-  * [ChatWebSocket](#chatwebsocket)
-  * [SnakeGame](#snakegame)
-  * [SuperSimon](#supersimon)
-  * [Paint](#paint)
-  * [Loan Calculator](#loan-calculator)
-  * [IP Validator](#ip-validator)
+- [Advent of Code](#advent-of-code)
+- [Base de données](#base-de-données)
+  - [Morpion](#morpion)
+  - [Calculatrice](#calculatrice)
+    - [Notions](#notions)
+    - [Langages](#langages)
+  - [MarketPlace](#marketplace)
+  - [GuessANumber](#guessanumber)
+  - [Cadavre exquis](#cadavre-exquis)
+  - [Museum](#museum)
+  - [TodoList](#todolist)
+  - [Encyclopédie Savoir relatif et Absolu](#encyclopédie-savoir-relatif-et-absolu)
+  - [Memory](#memory)
+  - [Formulaire de contact](#formulaire-de-contact)
+  - [PasswordGenerator](#passwordgenerator)
+  - [PasswordChecker](#passwordchecker)
+  - [ChatWebSocket](#chatwebsocket)
+  - [SnakeGame](#snakegame)
+  - [SuperSimon](#supersimon)
+  - [Paint](#paint)
+  - [Loan Calculator](#loan-calculator)
+  - [IP Validator](#ip-validator)
+  - [Securité Sociale Num Checker](#securité-sociale-num-checker)
+  - [Outil pour bijoutier](#outil-pour-bijoutier)
+  - [Calculateur d'âge](#calculateur-dâge)
 <!-- TOC -->
 
 ## Morpion
@@ -36,9 +63,26 @@ Bonus:
 
 ## Calculatrice
 
+
 ![](readme_docs/calculatrice.png)
 
 Créer une calculatrice : Créez une calculatrice en JavaScript qui peut effectuer les opérations de base comme l'addition, la soustraction, la multiplication et la division.
+On y trouvera aussi les boutons AC (remise à zéro) et DEL (Suppression du dernier chiffre saisi)
+
+### Notions
+
+- Sélecteur CSS
+- Manipulation du DOM
+- EventListener
+- Concaténation
+- Types de données (integer)
+- try  catch
+
+### Langages
+
+- JS
+- HTML
+- CSS
 
 ## MarketPlace
 
@@ -155,3 +199,17 @@ Bonus:
 
 Calculer le périmètre d'une bague
 Calculs de densité
+
+
+## Calculateur d'âge
+
+Formulaires qui contient les inputs suivants:
+- jour
+- mois
+- année
+
+Le programme affiche l'age
+
+Améliorations possibles:
+- Vérifications
+- Ajout de résultats rigolos
