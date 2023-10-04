@@ -156,7 +156,9 @@ Bonus:
 - Choix de la politique de mot de passe
 - Interaction avec Pawned (le site)
 
-## PasswordChecker -- OK
+## Password Validator -- OK
+
+![img.png](img.png)
 
 A partir d'une politique de mot de passe sélectionnée, le mot de passe saisi est vérifié pour voir s'il est assez robuste.
 
